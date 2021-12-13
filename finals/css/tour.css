@@ -1,0 +1,50 @@
+
+********************************************************************************/
+body{
+    background-color: black;
+}
+nav, footer{
+    background-color: gray;
+    font-family: cursive;
+}
+
+header
+{
+   font-style: oblique;
+    color: seashell;
+   background: black;
+}
+
+h1.app-title
+{
+    font-family: 'Dancing Script';
+    text-align: left;
+    margin: 5px;
+
+}
+
+.main-table-top th
+{
+    font-family: 'Dancing Script';
+    font-size: medium;
+    font-style: italic;
+    color:honeydew;
+    background-color: gray;
+
+}
+
+.main-table td
+{
+    font-family:cursive;
+    font-size: medium;
+    color: lavenderblush;
+    text-align: center;
+    background-color: black;
+}
+
+.main-table p span
+{
+    font-style: italic;
+    color:gray;
+    font-weight: bolder;
+}
